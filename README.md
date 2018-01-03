@@ -15,7 +15,7 @@ https://github.com/anasamanp/NFN-In-house/raw/master/image_slashDrPro_V2.0_57x57
 https://github.com/anasamanp/NFN-In-house/raw/master/image_slashDrPro_V2.0_512x512.png
 
 ## DOWNLOAD LINK:
-[Download](nfndev.com/downloadSlashDr)
+[Goto Website](http://nfndev.com/downloadSlashDr)
 
 ### Instruction:
 
